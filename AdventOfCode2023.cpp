@@ -7,7 +7,7 @@
 int main()
 {
     //cout << day_one::findExtendedSumOfNumbers("inputFiles/day01_01.txt") << endl;
-    cout << day_two::sumOfGameIDS("inputFiles/day02_01.txt")<<endl;
+    cout << day_two::sumOfPowers("inputFiles/day02_01.txt")<<endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
