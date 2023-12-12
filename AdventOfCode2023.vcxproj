@@ -131,7 +131,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="basics.h" />
+    <ClInclude Include="dayHeaders\day_four.h" />
     <ClInclude Include="dayHeaders\day_one.h" />
+    <ClInclude Include="dayHeaders\day_three.h" />
     <ClInclude Include="dayHeaders\day_two.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
